@@ -1,0 +1,9 @@
+From: billing@paypal-secure-verify.xyz
+Reply-To: collect9931@mail.ru
+To: victim@example.com
+Subject: Urgent: Verify Your Account
+Authentication-Results: mail.example.com; spf=fail; dkim=fail
+
+Your PayPal account has been suspended.
+Please verify your account immediately:
+https://paypal.attacker.xyz/login
